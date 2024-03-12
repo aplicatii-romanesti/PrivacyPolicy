@@ -18,3 +18,5 @@ This way, the new version (2xxxxx) of the application:
 - does not use (nor request) sdcard access (neither write nor read) (we have limited to sand-boxed directory for storing the books).
 
 Should anyone identify any problem related to privacy, is kindly asked to contact us immediately at aplicatii.romanesti@gmail.com .
+
+Same can be seen at: https://raw.githubusercontent.com/aplicatii-romanesti/acatiste.rugaciuni.biblia.ortodox/ice-cream-sandwich/PrivacyPolicy.md
